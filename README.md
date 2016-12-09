@@ -6,6 +6,17 @@ share taiwan noflyzone
 
 中文<br>
 整理好最新版民航局 kml 下載後用google 地球使用。2016/12/01<br>
+
+只查機場部份.<br>
+https://drive.google.com/open?id=0ByZ0qpvoEVQveGhGdHNHLUlBdHM
+--
+機場+飛航情報區限航區範圍圖資 部份<br>
+https://drive.google.com/open?id=0ByZ0qpvoEVQvNGJEa0VMRVV6ZWs
+--
+臺北飛航情報區限航區範圍圖資 部份<br>
+https://drive.google.com/open?id=0ByZ0qpvoEVQvbkJqcFpaRV9kT0k
+--
+
 (裝好google 地球app直接點連結會自動代入google地球)<br>
 飛行前查禁航和限航最好用。<br>
 大都是黃線區。 紅線區禁航哦。<br>
