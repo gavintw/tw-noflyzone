@@ -5,6 +5,7 @@ en
 share taiwan noflyzone
 
 中文<br>
+好用要轉發分想.
 整理好最新版民航局 kml 下載後用google 地球使用。2016/12/01<br>
 
 只查機場部份.<br>
@@ -24,6 +25,8 @@ https://drive.google.com/open?id=0ByZ0qpvoEVQvbkJqcFpaRV9kT0k
 app 版好像每次開都要....讀入kml.桌機版只需第一次。<br>
 會有的可直接裝登山用的離線app也可用。<br>
 資料來源民航局網站<br>
+(機場四周禁止施放有礙飛航安全物體(含空拍機及遙控無人機))<br>
+http://www.caa.gov.tw/big5/content/index.asp?sno=833<br>
 
 
 --
