@@ -5,7 +5,7 @@ en
 share taiwan noflyzone
 
 中文<br>
-好用要轉發分想.
+好用要轉發分享.
 整理好最新版民航局 kml 下載後用google 地球使用。2016/12/01<br>
 
 只查機場部份.<br>
